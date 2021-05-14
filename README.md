@@ -7,7 +7,9 @@ configured, Exchange 2010 and later) and removes duplicate items per folder. You
 how the items should be deleted and what items to process, e.g. mail items or appointments.
 Sample scenarios are misbehaving 3rd party synchronization tool creates duplicate items or
 (accidental) import of PST file with duplicate items. 
-
+--- >>>
+Also works againt OnPrem public folders.
+yet to be checked against Office365 PubFolders... 
 ### About
 
 For more information on this script, as well as usage and examples, see
