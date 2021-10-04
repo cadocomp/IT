@@ -1,5 +1,5 @@
 # Remove-DuplicateItems
-
+forked from base to include on-prem Public Folders
 ## Getting Started
 
 This script will scan each folder of a given primary mailbox and personal archive (when
